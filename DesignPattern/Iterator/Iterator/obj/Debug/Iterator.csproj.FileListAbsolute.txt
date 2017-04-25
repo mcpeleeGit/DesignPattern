@@ -1,0 +1,6 @@
+C:\DEV\WebSite\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\DEV\WebSite\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\DEV\WebSite\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\DEV\WebSite\Iterator\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\DEV\WebSite\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\DEV\WebSite\Iterator\Iterator\obj\Debug\Iterator.pdb

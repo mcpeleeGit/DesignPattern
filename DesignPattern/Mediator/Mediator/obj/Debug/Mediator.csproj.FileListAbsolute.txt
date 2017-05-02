@@ -1,0 +1,6 @@
+C:\DEV\WebSite\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\DEV\WebSite\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\DEV\WebSite\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\DEV\WebSite\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\DEV\WebSite\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\DEV\WebSite\Mediator\Mediator\obj\Debug\Mediator.pdb

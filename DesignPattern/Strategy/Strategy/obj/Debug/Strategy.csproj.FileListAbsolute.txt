@@ -1,0 +1,6 @@
+C:\DEV\WebSite\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\DEV\WebSite\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\DEV\WebSite\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\DEV\WebSite\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\DEV\WebSite\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\DEV\WebSite\Strategy\Strategy\obj\Debug\Strategy.pdb

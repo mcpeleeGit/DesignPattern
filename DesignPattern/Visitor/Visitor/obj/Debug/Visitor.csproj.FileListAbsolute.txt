@@ -1,0 +1,6 @@
+C:\DEV\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\DEV\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\DEV\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\DEV\Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\DEV\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\DEV\Visitor\Visitor\obj\Debug\Visitor.pdb
